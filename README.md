@@ -1,3 +1,7 @@
+## Live Demo
+https://enest-beryl.vercel.app/
+
+
 # AI Meeting Notes
 AI-powered meeting notes application built using Next.js, MongoDB, and Groq LLM.
 
@@ -94,3 +98,4 @@ Built by:
 Ramu Yadav
 B.Tech 3rd Year, Computer Science and Engineering
 National Institute Of Technology Mizoram
+Portfolio : https://mrkhiladi.vercel.app/
