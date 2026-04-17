@@ -121,8 +121,6 @@ Dashboard / Meeting Pages / Digest
 # How AI Processing Works
 
 Prompt engineering is used to instruct the model to return strict JSON with:
-
-```json
 {
   "summary": "",
   "tag": "",
@@ -131,6 +129,7 @@ Prompt engineering is used to instruct the model to return strict JSON with:
   "questions": [],
   "followups": []
 }
+
 
 ## Run Locally
 
