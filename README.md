@@ -130,7 +130,8 @@ Prompt engineering is used to instruct the model to return strict JSON with:
   "decisions": [],
   "questions": [],
   "followups": []
-}```  
+}
+```  
 
 
 ## Run Locally
